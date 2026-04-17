@@ -1,0 +1,25 @@
+.menu-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.search-input {
+  padding: 8px;
+  margin-bottom: 20px;
+  width: 250px;
+}
+
+.menu-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu-item {
+  margin-bottom: 20px;
+}
+
+.menu-item img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+}
